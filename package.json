@@ -1,7 +1,7 @@
 {
-  "name": "eth-netstats",
-  "description": "Ethereum Network Intelligence dashboard",
-  "version": "0.0.9",
+  "name": "netstats",
+  "description": "SimpleChain Network Intelligence dashboard",
+  "version": "0.0.1",
   "private": true,
   "engines": {
     "node": "0.12.0",
@@ -34,17 +34,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cubedro/eth-netstats.git"
+    "url": "https://github.com/simplechain-org/netstats.git"
   },
-  "homepage": "https://github.com/cubedro/eth-netstats",
+  "homepage": "https://github.com/simplechain-org/netstats",
   "bugs": {
-    "url": "https://github.com/cubedro/eth-netstats/issues"
+    "url": "https://github.com/simplechain-org/netstats/issues"
   },
   "authors": [
     {
-      "name": "Marian Oancea",
-      "email": "marian@ethdev.com",
-      "url": "https://github.com/cubedro"
+      "name": "Moro",
+      "email": "morolt@gmail.com",
+      "url": "https://github.com/simplechain-org"
     }
   ],
   "license": "LGPL-3.0",
