@@ -8,7 +8,8 @@
     "npm": "2.5.1"
   },
   "scripts": {
-    "start": "node ./bin/www"
+    "postinstall": "npm install grunt-cli",
+    "start": "grunt && node ./bin/www"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
