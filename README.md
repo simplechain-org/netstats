@@ -6,6 +6,11 @@ This is a visual interface for tracking simpleChain network status. It uses WebS
 the boot nodes state of the SimpleChain network  
 http://47.91.16.204:3000/
 
+You can join the state when Sipe start with parameters :
+
+`--metrics --ethstats yourname:simplechain@47.91.16.204:3000`
+
+
 ## Prerequisite
 * node
 * npm
