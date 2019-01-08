@@ -3,7 +3,8 @@ SimpleChain Network Stats
 
 This is a visual interface for tracking simpleChain network status. It uses WebSockets to receive stats from running nodes and output them through an angular interface. It is the front-end implementation for [eth-net-intelligence-api](https://github.com/cubedro/eth-net-intelligence-api).
 
-![Screenshot](https://raw.githubusercontent.com/cubedro/eth-netstats/master/src/images/screenshot.jpg?v=0.0.6 "Screenshot")
+the boot nodes state of the SimpleChain network  
+http://47.91.16.204:3000/
 
 ## Prerequisite
 * node
