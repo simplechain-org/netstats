@@ -4,11 +4,17 @@ SimpleChain Network Stats
 This is a visual interface for tracking simpleChain network status. It uses WebSockets to receive stats from running nodes and output them through an angular interface. It is the front-end implementation for [eth-net-intelligence-api](https://github.com/cubedro/eth-net-intelligence-api).
 
 the boot nodes state of the SimpleChain network  
-http://47.91.16.204:3000/
+
+```
+#japan
+47.91.16.204:3000
+#cn
+47.99.133.102:8888
+```
 
 You can join the state when Sipe start with parameters :
 
-`--metrics --ethstats yourname:simplechain@47.91.16.204:3000`
+`--metrics --ethstats yourname:simplechain@yourip:yourport`
 
 
 ## Prerequisite
